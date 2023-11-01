@@ -1,0 +1,1 @@
+chrome-extension://ndcileolkflehcjpmjnfbnaibdcgglog/adblock-uiscripts-rightclick_hook.js

@@ -1,0 +1,1 @@
+chrome-extension://boldmdfoencgjfblcelefkjfafmpiahm/data/content_script/vendor/tinycolor.js
